@@ -1,0 +1,14 @@
+{
+  "name": "feather-command-switch",
+  "version": "0.1.0",
+  "description": "feather switch project",
+  "main": "switch.js",
+  "author": {
+    "name": "jsyczhanghao@sina.com"
+  },
+  "keyword": [
+    "feather",
+    "command",
+    "switch"
+  ]
+}
